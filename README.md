@@ -26,8 +26,20 @@
 
 ###
 
-<p align="left">I build things for the web. I enjoy creating frontend solutions that are stable, scalable and have an excellent user experience.<br>My interest in web development first started in 2017 when I made the decision to try developing a podcaster.<br>As a sophisticated full-stack web app developer,<br>I understand what it takes to develop your idea with dependable solutions that's take you closer to your goals . I have managed projects in my previous jobs, I have the experience of suggesting better solutions rather than jumping straight to projects that will have no impact on visitors. Whether it is a small SPA or an enterprise-level project<br><br>- 📚 I'm currently looking for a job ...</p>
+<p align="left">I enjoy 𝐜𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐭𝐡𝐢𝐧𝐠𝐬 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐢𝐧𝐭𝐞𝐫𝐧𝐞𝐭 . My interest in web development first started in 2016 when I made the decision to try developing a podcaster.
 
+As a 𝐬𝐨𝐩𝐡𝐢𝐬𝐭𝐢𝐜𝐚𝐭𝐞𝐝 𝐟𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐰𝐞𝐛 𝐚𝐩𝐩 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫. Skilled in 𝐝𝐞𝐥𝐢𝐯𝐞𝐫𝐢𝐧𝐠 𝐝𝐞𝐩𝐞𝐧𝐝𝐚𝐛𝐥𝐞 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 align with your goals. Let's bring your ideas to life.
+
+𝐒𝐤𝐢𝐥𝐥𝐬:
+𝐕𝐮𝐞, 𝐕𝐮𝐞𝐱, 𝐕𝐮𝐞𝐭𝐢𝐟𝐲, 𝐍𝐮𝐱𝐭,𝐓𝐚𝐢𝐥𝐰𝐢𝐧𝐝 
+𝐑𝐞𝐚𝐜𝐭, 𝐑𝐞𝐝𝐮𝐱, 𝐍𝐞𝐱𝐭, 𝐁𝐨𝐨𝐭𝐬𝐭𝐫𝐚𝐩 
+𝐍𝐨𝐝𝐞 𝐣𝐬, 𝐄𝐱𝐩𝐫𝐞𝐬𝐬 𝐉𝐬, 𝐌𝐨𝐧𝐠𝐨𝐃𝐁
+
+𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭, my beloved coding language, dances with React and Vue on the stage of front-end engineering, captivating hearts and crafting beautiful web experiences.
+
+Over the past  𝐟𝐢𝐯𝐞 𝐲𝐞𝐚𝐫𝐬, have worked remotely with Ioty Inc. and Apukuski, while also freelancing on React, Vue, and Node.js. I have gained experience with various unique tools and web development projects.
+
+I'm really excited to pursue a career as a front-end web developer. I want to create awesome stuff for the internet by working hard and staying committed. Let's start this amazing journey together and make a difference!
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
